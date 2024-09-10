@@ -16,17 +16,15 @@ This automation framework is designed to test the webapplication using Java,Sele
 - Extent reports: For test reporting
 
 
-## Installations:
-
 **To download the project:**
 
 **Clone the repository**
 git clone  https://github.com/NandanaYella/Nandana_Repository
 
 **Execute the program:**
-from command line :maven test 
+from command line : mvn test 
 
-**packages in the framework:**
+## Packages in the framework:
 
 - Base: In base class initialisation of driver,loading properties file and handling synchronization issues.
 - Config package:Configurations like browser,user defined here
